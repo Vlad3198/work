@@ -1,0 +1,199 @@
+.header{
+    width: 1440px;
+    height: 560px;
+    background-color: #DDD7D7;
+    background-size: 50px 50px;
+    background-image:
+            linear-gradient(-45deg, transparent 52%, rgba(255,255,255,0.9) 54%, transparent 55%, transparent),
+            linear-gradient(45deg, transparent 52%, rgba(255,255,255,0.6) 54%, transparent 55%, transparent),
+            linear-gradient(-45deg, transparent 50%, rgba(0,0,0,0.1) 52%, transparent 53%, transparent),
+            linear-gradient(45deg, transparent 50%, rgba(0,0,0,0.05) 52%, transparent 53%, transparent);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header_block{
+
+    width: 960px;
+
+    margin-right: auto;
+margin-left: auto;
+display: flex;
+justify-content: space-between;
+align-items: baseline;
+    font-style: italic
+}
+.conteiner{
+width: 660px;
+height: 370px;
+    background: #ffffff;
+    background-size: 50px 50px;
+    background-image:
+            linear-gradient(-45deg, transparent 52%, rgba(255,255,255,0.9) 54%, transparent 55%, transparent),
+            linear-gradient(45deg, transparent 52%, rgba(255,255,255,0.6) 54%, transparent 55%, transparent),
+            linear-gradient(-45deg, transparent 50%, rgba(0,0,0,0.1) 52%, transparent 53%, transparent),
+            linear-gradient(45deg, transparent 50%, rgba(0,0,0,0.05) 52%, transparent 53%, transparent);
+margin-top: 50px;
+    margin-left: 240px;
+    border: 3px solid gray;
+    border-style: double;
+}
+
+.button {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    transition: .5s;
+    font-style: italic
+}
+.button:hover {background-position: right center;}
+a{
+    text-decoration: none;
+}
+.foto{
+    width: 650px;
+    height: 360px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.text{
+    width: 290px;
+    height: 240px;
+text-align: justify;
+    margin-top: -397px;
+    margin-left: 670px;
+    font-style: italic
+}
+.slaider{
+    width: 1440px;
+    height: 190px;
+    background-color: #c9dce6;
+    background-size: 50px 50px;
+    background-image:
+            linear-gradient(-45deg, transparent 52%, rgba(255,255,255,0.9) 54%, transparent 55%, transparent),
+            linear-gradient(45deg, transparent 52%, rgba(255,255,255,0.6) 54%, transparent 55%, transparent),
+            linear-gradient(-45deg, transparent 50%, rgba(0,0,0,0.1) 52%, transparent 53%, transparent),
+            linear-gradient(45deg, transparent 50%, rgba(0,0,0,0.05) 52%, transparent 53%, transparent);
+
+    margin-left: auto;
+margin-right: auto;
+
+}
+.content{
+    width: 1440px;
+    height: 690px;
+    background-color: #d7e7ef;
+    background-size: 50px 50px;
+    background-image:
+            linear-gradient(-45deg, transparent 52%, rgba(255,255,255,0.9) 54%, transparent 55%, transparent),
+            linear-gradient(45deg, transparent 52%, rgba(255,255,255,0.6) 54%, transparent 55%, transparent),
+            linear-gradient(-45deg, transparent 50%, rgba(0,0,0,0.1) 52%, transparent 53%, transparent),
+            linear-gradient(45deg, transparent 50%, rgba(0,0,0,0.05) 52%, transparent 53%, transparent);
+
+
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: -20px;
+}
+.content_block{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:
+
+}
+h2{
+    position: relative;
+    top: 70px;
+    font-style: italic
+}
+.text-cont{
+ width: 290px;
+    height: 140px;
+    margin-left: 240px;
+    text-align: justify;
+    margin-top: 150px;
+    font-style: italic
+
+}
+h3{
+    margin-left: 50px;
+    font-style: italic
+}
+.img_cont{
+margin-left: 280px;
+    margin-top: -485px;
+
+}
+.text-cont1{
+    margin-left: 600px;
+    margin-top: -50px;
+    font-style: italic
+}
+.img_cont1{
+    margin-left:600px;
+    margin-top: -150px;
+
+}
+.text-cont2{
+    margin-left: 925px;
+    margin-top: -50px;
+    font-style: italic
+}
+.img_cont2{
+    margin-left:925px;
+    margin-top: -150px;
+}
+.img_cont3{
+    margin-left: 280px;
+    margin-top: 200px;
+}
+.email{
+    margin-left: 925px;
+    margin-top: -160px;
+    font-style: italic
+
+}
+.call{
+    margin-left: 960px;
+    font-style: italic
+}
+.call_img{
+    margin-left: 925px;
+    margin-top: -50px;
+}
+.foter{
+    width: 1440px;
+    height: 60px;
+    background-color: #c9dce6;
+    background-size: 50px 50px;
+    background-image:
+            linear-gradient(-45deg, transparent 52%, rgba(255,255,255,0.9) 54%, transparent 55%, transparent),
+            linear-gradient(45deg, transparent 52%, rgba(255,255,255,0.6) 54%, transparent 55%, transparent),
+            linear-gradient(-45deg, transparent 50%, rgba(0,0,0,0.1) 52%, transparent 53%, transparent),
+            linear-gradient(45deg, transparent 50%, rgba(0,0,0,0.05) 52%, transparent 53%, transparent);
+
+
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 170px;
+}
+h5{
+    margin-left: 280px;
+margin-top: -40px;
+    font-style: italic
+}
+.fot{
+    margin-top: -40px;
+    margin-left: 1000px;
+}
